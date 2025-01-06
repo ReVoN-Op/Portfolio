@@ -29,7 +29,7 @@ const Home = () => {
           {/* Right Section */}
           <div className="w-full md:w-1/2 flex justify-end pr-[10vmin] mt-8 md:mt-0 pl-[40vmin]">
             <img
-              src="/public/images/coder.jpg"
+              src="/images/coder.jpg"
               alt="Coder"
               className="w-64 h-64 object-cover rounded-lg shadow-lg"
             />

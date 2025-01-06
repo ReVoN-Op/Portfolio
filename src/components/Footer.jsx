@@ -10,13 +10,13 @@ const Footer = () => {
         {/* Right Side: Social Media Links */}
         <div className="flex space-x-6">
           <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-            <img src="/public/images/github1.png" alt="GitHub" className="h-8 w-8 hover:text-gray-200" />
+            <img src="/images/github1.png" alt="GitHub" className="h-8 w-8 hover:text-gray-200" />
           </a>
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-            <img src="/public/images/l.jpg" alt="LinkedIn" className="h-6 w-6 hover:text-gray-200" />
+            <img src="/images/l.jpg" alt="LinkedIn" className="h-6 w-6 hover:text-gray-200" />
           </a>
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-            <img src="/public/images/instagram.jpg" alt="Instagram" className="h-6 w-6 hover:text-gray-200" />
+            <img src="/images/instagram.jpg" alt="Instagram" className="h-6 w-6 hover:text-gray-200" />
           </a>
         </div>
       </div>

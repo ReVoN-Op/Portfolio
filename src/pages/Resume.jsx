@@ -11,7 +11,7 @@ const Resume = () => {
         </a>
         </div>
         <div className="flex flex-row justify-center pt-[10vmin] pb-[15vmin]">
-           <img src="/public/images/resumepic.jpg" className="w-[70vw] h-full opacity-75" />
+           <img src="/images/resumepic.jpg" className="w-[70vw] h-full opacity-75" />
         </div>
 
 

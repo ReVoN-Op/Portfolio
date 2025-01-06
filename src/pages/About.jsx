@@ -36,7 +36,7 @@ const About = () => {
               </blockquote>
             </div>
             <div className="md:w-[45%]">
-              <img src="/public/images/photo1.png" alt="Your profile" className="rounded-lg shadow-lg w-full h-auto" />
+              <img src="/images/photo1.png" alt="Your profile" className="rounded-lg shadow-lg w-full h-auto" />
             </div>
           </div>
 

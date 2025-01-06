@@ -21,7 +21,7 @@ const Project = () => {
         <div className="w-[50vmin] h-[65vmin] shadow-lg shadow-purple-500 transform hover:scale-105 transition-transform duration-300 flex flex-col items-center justify-center relative">
           <div>
             <img 
-              src="/public/images/doodle.png" 
+              src="/images/doodle.png" 
               className="w-[80%] rounded-lg absolute top-0 left-1/2 transform -translate-x-1/2 h-[30vmin] opacity-75 pt-[4vmin] mix-blend-multiply" 
             />
           </div>
@@ -43,7 +43,7 @@ const Project = () => {
         <div className="w-[50vmin] h-[65vmin] shadow-lg shadow-purple-500 transform hover:scale-105 transition-transform duration-300 flex flex-col items-center justify-center relative">
           <div>
             <img 
-              src="/public/images/tiktaktoe.png" 
+              src="/images/tiktaktoe.png" 
               className="w-[60%] rounded-lg absolute top-0 left-1/2 transform -translate-x-1/2 h-[30vmin] opacity-75 pt-[4vmin] mix-blend-multiply" 
             />
           </div>
@@ -65,7 +65,7 @@ const Project = () => {
         <div className="w-[50vmin] h-[65vmin] shadow-lg shadow-purple-500 transform hover:scale-105 transition-transform duration-300 flex flex-col items-center justify-center relative">
           <div>
             <img 
-              src="/public/images/calculator.png" 
+              src="/images/calculator.png" 
               className="w-[80%] rounded-lg absolute top-0 left-1/2 transform -translate-x-1/2 h-[30vmin] opacity-75 pt-[4vmin] mix-blend-multiply" 
             />
           </div>

@@ -56,7 +56,7 @@ const Home = () => {
           {/* Right Section */}
           <div className="w-full md:w-1/2 flex justify-center mt-8 md:mt-0 pl-[40vmin]">
             <img
-              src="/public/images/avatar.jpg"
+              src="/images/avatar.jpg"
               alt="Avatar"
               className="w-64 h-64 object-cover rounded-lg shadow-lg"
             />
